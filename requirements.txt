@@ -4,6 +4,7 @@
 #
 #    pip-compile --output-file=release/requirements.txt requirements.in
 #
+wheel
 attrs==19.3.0             # via jsonschema
 backcall==0.1.0           # via ipython
 bleach==3.1.0             # via nbconvert
