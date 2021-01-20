@@ -3,3 +3,9 @@
 
 # nbgrader
 .nbgrader.log
+
+# python virtual environment
+venv
+
+# jetbrains IDES
+.idea
